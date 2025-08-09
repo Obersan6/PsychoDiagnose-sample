@@ -1,4 +1,5 @@
-⚠️ This sample repository is currently being developed. 
+# 🚧 This sample repository is currently being developed!
+
 
 # 🧠 PsychoDiagnose – Sample Repository
 
